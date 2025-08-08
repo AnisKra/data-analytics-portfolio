@@ -12,7 +12,7 @@ This portfolio contains my projects demonstrating skills in data cleaning, analy
 - [Music Store Sales Analysis](SQL_Projects/Music_Store/README.md)
 
 ### Tableau
-- [Newsfeed Analysis](newfeed-analysis/README.md)
+- [Newsfeed Analysis](data-analytics-portfolio/newsfeed-analysis-tableau/README.md)
 
 ### Python Projects
 - [COVID-19 Analysis](Python_Projects/COVID_Analysis/README.md)
