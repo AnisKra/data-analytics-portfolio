@@ -8,4 +8,4 @@
 
 
 ### Power BI
-- [Sales Dashboard](./sales-powerBI/)
+- [Sales Dashboard](./sales-power20%BI/)
