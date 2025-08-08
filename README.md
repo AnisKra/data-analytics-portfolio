@@ -11,8 +11,8 @@ This portfolio contains my projects demonstrating skills in data cleaning, analy
 ### SQL Projects
 - [Music Store Sales Analysis](SQL_Projects/Music_Store/README.md)
 
-### Power BI / Tableau
-- [Berlin Airbnb Dashboard](PowerBI_Tableau/Berlin_Airbnb/README.md)
+### Tableau
+- [Newsfeed Analysis](newfeed-analysis/README.md)
 
 ### Python Projects
 - [COVID-19 Analysis](Python_Projects/COVID_Analysis/README.md)
