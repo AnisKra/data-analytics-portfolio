@@ -15,7 +15,7 @@ This project builds an interactive sales dashboard in Power BI using data from t
 - KPIs for previous 1, 3, and 6 months and all-time totals.
 - Interactive dropdown filters with bookmarks and a **Clear Filters** button.
 - Monthly sales trends with currency comparison, and map view for sales by country.
-- Conditional formatting for performance metrics, aligned with a `#e8d400` theme.
+
 
 ## Conclusion
 This Power BI dashboard provides a user-friendly, interactive way to monitor sales performance, compare trends across time periods, and drill down by territory or currency—supporting data-driven decision-making and faster business insights.
